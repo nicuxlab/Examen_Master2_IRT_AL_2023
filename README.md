@@ -1,6 +1,6 @@
 # examenM2
 BENIN INTERIM APPLICATION
-# Pour cloner mon projet Laravel "examenM2" du dépôt GitHub "nicuxlab/examenM2", voici les étapes à suivre :
+ Pour cloner mon projet Laravel "examenM2" du dépôt GitHub "nicuxlab/examenM2", voici les étapes à suivre :
 # git clone https://github.com/nicuxlab/examenM2.git
 Accéder au répertoire du projet : Utilisez la commande cd pour accéder au répertoire du projet cloné :
 # cd examenM2
@@ -19,5 +19,4 @@ Lancer le serveur de développement : Utilisez la commande
 pour démarrer le serveur de développement Laravel
 Accéder au projet dans votre navigateur : Ouvrez votre navigateur Web et accédez à l'URL
 # http://localhost:8000 
-pour voir votre projet  
-MERCI
+
